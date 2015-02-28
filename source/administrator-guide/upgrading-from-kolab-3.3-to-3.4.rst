@@ -143,7 +143,7 @@ You can see the configuration differences here:
 
     http://git.kolab.org/pykolab/diff/conf/kolab.conf?id=pykolab-0.7.6&id2=pykolab-0.7.1
 
-We only have on new option for wallace, which can be ignored if you don't use
+We only have one new option for wallace, which can be ignored if you don't use
 wallace for resource management.
 
 
